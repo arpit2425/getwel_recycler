@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".proDetail" />
+        <activity android:name=".rr" />
+        <activity android:name=".ff"></activity>
     </application>
 
 </manifest>
